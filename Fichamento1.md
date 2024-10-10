@@ -2,7 +2,7 @@
 # Volunteers' Engagement in Human Computation for Astronomy Projects
 
 
-Ponciano, Lesandro. "A participação popular nas Ciências Exatas e Informática e seus efeitos no conhecimento científico e tecnológico." In: Caminhos da Inovação em Sistemas de Informação, 2022. doi: []( https://lesandrop.github.io/site/papers/LesandroPonciano-EbookPUCMinas-Cap%C3%ADtulo21-2022.pdf)
+Ponciano, Lesandro. "A participação popular nas Ciências Exatas e Informática e seus efeitos no conhecimento científico e tecnológico." In: Caminhos da Inovação em Sistemas de Informação, 2022. doi: ["A participação popular nas Ciências Exatas e Informática e seus efeitos no conhecimento científico e tecnológico."]( https://lesandrop.github.io/site/papers/LesandroPonciano-EbookPUCMinas-Cap%C3%ADtulo21-2022.pdf)
 
 ## 1. Fichamento de Conteúdo
 
