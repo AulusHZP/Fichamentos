@@ -1,10 +1,8 @@
-`No início deve incluir, o título do Artigo sobre o qual o fichamento está sendo feito, exemplo:`
 
 # Volunteers' Engagement in Human Computation for Astronomy Projects
 
-`Aqui deve-se colocar uma linha com a referência completa do artigo, exemplo:`
 
-Ponciano, Lesandro; Brasileiro,  Francisco; Simpson, Robert; Smith, Arfon. "Volunteers' Engagement in Human Computation for Astronomy Projects," in Computing in Science & Engineering, vol. 16, no. 6, pp. 52-59, Nov.-Dec. 2014. doi: [10.1109/MCSE.2014.4](https://doi.org/10.1109/MCSE.2014.4)
+Ponciano, Lesandro. "A participação popular nas Ciências Exatas e Informática e seus efeitos no conhecimento científico e tecnológico." In: Caminhos da Inovação em Sistemas de Informação, 2022. doi: []( https://lesandrop.github.io/site/papers/LesandroPonciano-EbookPUCMinas-Cap%C3%ADtulo21-2022.pdf)
 
 ## 1. Fichamento de Conteúdo
 
