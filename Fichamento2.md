@@ -6,10 +6,10 @@ Ponciano, Lesandro. "A participação popular nas Ciências Exatas e Informátic
 
 ## 1. Fichamento de Conteúdo
 
-O capítulo aborda a participação popular em projetos de ciências exatas e informática, explorando como o envolvimento de cidadãos comuns (não especialistas) pode contribuir para a produção de conhecimento científico e tecnológico. O autor destaca que, com o avanço da ciência cidadã e da computação humana, os cidadãos desempenham um papel ativo em diversas atividades científicas, como a coleta e análise de dados, desenvolvimento de algoritmos e testes de sistemas.
-O texto faz uma análise detalhada de como esses projetos participativos se destacam, especialmente em áreas como astronomia, biologia e ciências ambientais, onde o volume de dados gerados requer uma participação massiva de voluntários para sua análise. Exemplos incluem plataformas como Zooniverse, onde os voluntários ajudam na classificação de imagens e dados científicos.
-A participação popular também influencia o desenvolvimento de novos métodos e tecnologias, uma vez que a colaboração entre cientistas e o público cria um ciclo de retroalimentação, permitindo que inovações e soluções práticas surjam de diferentes perspectivas e abordagens. O artigo sugere que a ciência cidadã não apenas democratiza a ciência, mas também acelera o processo de descobertas, ao agregar esforços em escala global.
-Outro ponto importante discutido é como essa participação popular pode levar ao aprimoramento das habilidades tecnológicas da população, promovendo a inclusão digital e científica. No entanto, o autor também aponta os desafios, como a qualidade dos dados gerados por voluntários e a necessidade de plataformas adequadas para gerenciar esses projetos em larga escala.
+O texto discute como a participação popular em projetos científicos nas áreas de ciências exatas e informática está se tornando cada vez mais relevante. Essa abordagem, conhecida como ciência cidadã, permite que voluntários contribuam com tarefas específicas, como a coleta de dados ou a resolução de problemas complexos que exigem esforço humano, ampliando a capacidade das equipes científicas.
+O artigo também destaca que essa colaboração ajuda a democratizar o conhecimento científico, ao envolver cidadãos em processos que antes eram restritos ao ambiente acadêmico. Além disso, o engajamento popular pode promover a inclusão digital, fornecendo aos participantes novas habilidades e acesso a ferramentas tecnológicas.
+Por outro lado, o autor aponta desafios na implementação desse modelo, como a necessidade de validar os dados coletados por voluntários e garantir a precisão dos resultados. Para que a ciência cidadã seja eficaz, é essencial que os projetos sejam bem estruturados, com plataformas que facilitem a coordenação entre cientistas e participantes.
+O autor conclui que a ciência cidadã é uma forma inovadora de produção de conhecimento e que pode complementar a pesquisa tradicional, desde que acompanhada por boas práticas de gerenciamento e verificação dos dados.
 
 
 
@@ -23,7 +23,7 @@ Outro ponto importante discutido é como essa participação popular pode levar 
 
 ## 3. Fichamento de Citações 
 
-* _"A ciência cidadã abre novas possibilidades para o envolvimento popular na produção de conhecimento, permitindo que cidadãos comuns ajudem a resolver problemas científicos complexos." (p. 320)._
-* _""Plataformas como Zooniverse são exemplos bem-sucedidos de como a participação popular pode acelerar descobertas científicas e tecnológicas." (p. 323)._
-* _""O desafio da ciência cidadã reside na gestão da qualidade dos dados gerados pelos voluntários e na necessidade de mecanismos eficientes de coordenação e verificação." (p. 325)._
-* _"A participação em projetos de computação humana tem o potencial de promover a inclusão digital e científica, capacitando a população com novas habilidades tecnológicas." (p. 327)._
+* _"O envolvimento popular na ciência é uma oportunidade para democratizar o conhecimento e engajar cidadãos em atividades científicas." (p. 4)_
+* _"A validação dos dados é um dos principais desafios da ciência cidadã, pois exige processos rigorosos para assegurar a qualidade." (p. 6)_
+* _"As plataformas digitais permitem que cidadãos e cientistas colaborem em larga escala, potencializando o impacto das pesquisas." (p. 7)._
+* _"Além de contribuir com a ciência, a participação popular é uma ferramenta importante para inclusão e alfabetização digital." (p. 8)_
